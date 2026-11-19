@@ -1,3 +1,4 @@
+
 # C Programming: Core Concepts & Implementations
 
 ![Language](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
@@ -20,7 +21,7 @@ The documentation in this repository focuses on building a deep, fundamental und
 * **Architectural Foundations:** Binary logic, compiler vs. interpreter translation, and memory hierarchy (Stack vs. Heap).
 * **Language Semantics:** Data types, memory capacities, ASCII encoding, and operator mechanics.
 * **Control Flow Mastery:** Complex decision-making (`if-else`, `switch`) and robust iteration (`for`, `while`, `do-while`).
-* **Algorithmic Patterns:** Mastering standard programmatic techniques like the **Fetch-and-Delete** pattern for digit manipulation.
+* **Data Structures & Algorithms:** 1D/2D arrays, matrix operations, nested loops, and pattern generation with time/space complexity analysis.
 
 ---
 
@@ -31,7 +32,8 @@ C-Programming-Core-Concepts/
 |-- README.md
 |-- C_Programming_PDP_Day1_Notes.pdf
 |-- C_Programming_PDP_Day2_Notes.pdf
-\-- Day3_Notes.pdf                  # In Progress
+|-- C_Programming_PDP_Day3_Notes.pdf
+\-- Day4_Notes.pdf                  # In Progress
 ```
 
 ---
@@ -58,7 +60,14 @@ C-Programming-Core-Concepts/
 * Additional important loop programs (Count digits, Sum of digits, Reverse a number).
 * Lab programs practiced on the system.
 
-### Day 3: Arrays & Strings (In Progress)
+### [Day 3: Arrays and Nested Loop Patterns](C_Programming_PDP_Day3_Notes.pdf)
+* **1D Arrays:** Contiguous memory layout, indexing from 0, sum, average, maximum, and minimum.
+* **2D Arrays:** Matrix input/output, sum of elements, and matrix transpose.
+* **Nested Loops:** Execution flow, complexity analysis, and inner-loop mechanics.
+* **Pattern Printing:** The 4 base patterns, Floyd's Triangle, combination patterns, and trace tables.
+* **Edge Cases:** Common pitfalls, array bounds, and practice challenges.
+
+### Day 4: *(In Progress)*
 *(Will be added shortly)*
 
 ---
@@ -81,8 +90,8 @@ gcc -Wall filename.c -o output
 
 * Every program is compiled and executed with **GCC** (warnings enabled).
 * Real terminal output is shown under each program.
-* Important interview and lab points are clearly highlighted.
-* Focus is on conceptual clarity and clean, professional code.
+* Visual diagrams, trace tables, and Big-O complexity analysis are included.
+* Focus is on conceptual clarity, clean code, and interview preparation.
 
 ---
 
@@ -101,6 +110,3 @@ B.Sc. Computer Science with Cybersecurity
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pradheepa73)
 
 </div>
-```
-
----
