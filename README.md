@@ -22,6 +22,7 @@ The documentation in this repository focuses on building a deep, fundamental und
 * **Language Semantics:** Data types, memory capacities, ASCII encoding, and operator mechanics.
 * **Control Flow Mastery:** Complex decision-making (`if-else`, `switch`) and robust iteration (`for`, `while`, `do-while`).
 * **Data Structures & Algorithms:** 1D/2D arrays, matrix operations, nested loops, and pattern generation with time/space complexity analysis.
+* **String Manipulation:** Null terminators, ASCII conversions, and standard string algorithms.
 
 ---
 
@@ -33,7 +34,8 @@ C-Programming-Core-Concepts/
 |-- C_Programming_PDP_Day1_Notes.pdf
 |-- C_Programming_PDP_Day2_Notes.pdf
 |-- C_Programming_PDP_Day3_Notes.pdf
-\-- Day4_Notes.pdf                  # In Progress
+|-- C_Programming_PDP_Day4_Notes.pdf
+\-- Day5_Notes.pdf                  # In Progress
 ```
 
 ---
@@ -67,7 +69,15 @@ C-Programming-Core-Concepts/
 * **Pattern Printing:** The 4 base patterns, Floyd's Triangle, combination patterns, and trace tables.
 * **Edge Cases:** Common pitfalls, array bounds, and practice challenges.
 
-### Day 4: *(In Progress)*
+### [Day 4: Strings, Switch Case and Data Structures](C_Programming_PDP_Day4_Notes.pdf)
+* **Strings:** Character arrays, null terminator (`\0`), and memory layout diagrams.
+* **String Operations:** Length, word count, vowel count, and counting a specific character.
+* **ASCII & Conversion:** Integer to character, character to integer, and case conversion (toggling).
+* **String Algorithms:** Reversing a string and checking for a palindrome.
+* **Switch Statement:** Multi-way selection, `break` mechanics (fall-through), and `default` cases.
+* **Data Structures:** Introduction to linked lists and dynamic memory concepts.
+
+### Day 5: *(In Progress)*
 *(Will be added shortly)*
 
 ---
@@ -110,3 +120,6 @@ B.Sc. Computer Science with Cybersecurity
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pradheepa73)
 
 </div>
+```
+
+---
